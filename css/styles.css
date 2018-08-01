@@ -1,0 +1,27 @@
+
+
+img {
+  width: 20%;
+}
+
+.fancy {
+  display: block;
+  margin: 0 auto;
+}
+
+.best {
+  display: block;
+  margin: 0 auto;
+  transition: transform .2s;
+}
+
+.best:hover {
+  transform: scale(1.5);
+}
+
+.flashy {
+  color: #470606;
+  font-style: italic;
+  font-family: sans-serif;
+  list-style: none;
+}
